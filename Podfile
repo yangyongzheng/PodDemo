@@ -13,6 +13,7 @@ target 'AppMain' do
   pod 'SnapKit'
   pod 'Moya'
   # 第三方SDK
+  pod 'WechatOpenSDK-XCFramework'
 end
 
 post_install do |installer|
